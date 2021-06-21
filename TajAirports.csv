@@ -1,0 +1,8 @@
+	id	ident	type	name	latitude_deg	longitude_deg	elevation_ft	continent	iso_country	iso_region	municipality	scheduled_service	gps_code	iata_code	local_code	home_link	wikipedia_link	keywords
+53818	300330	TJ-0003	small_airport	Ayni Airport	39.405555555599996	68.5227777778	4655.0	AS	TJ	TJ-SU	Ayni	no						
+53819	300331	TJ-0004	small_airport	Penjikent Airport	39.4822222222	67.6055555556	3400.0	AS	TJ	TJ-SU	Panjakent	no						
+53820	300332	TJ-0005	small_airport	Garm Airport	39.0038888889	70.2902777778	4280.0	AS	TJ	TJ-RR	Garm	no						
+53824	6374	TJ-UT44	small_airport	Murghab Airport	38.19039916992188	74.02469635009766	11962.0	AS	TJ	TJ-GB	Murghab	no						UT44, Murgab, Мурғоб, مرغاب
+59138	6371	UT1A	small_airport	Isfara Airport	40.120601654052734	70.67520141601562	2814.0	AS	TJ	TJ-SU	Isfara	no					https://en.wikipedia.org/wiki/Isfara_Airport	UT1A
+59140	6373	UT1C	small_airport	Khorog Airport	37.502221999999996	71.51333299999999	6700.0	AS	TJ	TJ-GB	Khorog	no	UTOD				https://en.wikipedia.org/wiki/Khorog_Airport	UT1C
+59226	26385	UTDD	medium_airport	Dushanbe Airport	38.543300628699996	68.8249969482	2575.0	AS	TJ	TJ-RR	Dushanbe	yes	UTDD	DYU			https://en.wikipedia.org/wiki/Dushanbe_Airport	
